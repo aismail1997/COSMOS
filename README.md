@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # raspberry_pi_ft5406_capacitive_touch
 
 Raspberry Pi 7 inch touchscreen controller display hacking (with Raspberry Pi 3 as host)
@@ -45,3 +46,6 @@ of hardware as they see fit, so it may not work with future hardware.
 Copyright (c) 2016 Simon Gustafsson (www.optisimon.com)
 
 Do whatever you like with this code, but please refer to me as the original author.
+=======
+# COSMOS
+>>>>>>> 9dba5d3ba7505ffc9248e690d86d45cafc1e09ed
